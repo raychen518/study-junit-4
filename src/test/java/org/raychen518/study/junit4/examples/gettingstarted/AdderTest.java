@@ -7,7 +7,7 @@ import org.junit.Test;
 public class AdderTest {
 
 	@Test
-	public void testAdd() {
+	public void test_add() {
 		Adder adder = new Adder();
 
 		int result = adder.add(1, 2);
